@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xujiayue1111.github.io/blog</id>
     <title>My Site1 Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2023-06-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xujiayue1111.github.io/blog"/>
     <subtitle>My Site1 Blog</subtitle>
     <icon>https://xujiayue1111.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[高兴诗]]></title>
+        <id>https://xujiayue1111.github.io/blog/happy</id>
+        <link href="https://xujiayue1111.github.io/blog/happy"/>
+        <updated>2023-06-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天天气真不错，我们大家来上课，老师讲的真不错，真的真的很不错。]]></summary>
+        <content type="html"><![CDATA[<p>今天天气真不错，我们大家来上课，老师讲的真不错，真的真的很不错。</p>]]></content>
+        <author>
+            <name>李美丽</name>
+            <uri>https://github.com/wgao19</uri>
+        </author>
+        <category label="随笔" term="随笔"/>
+        <category label="诗" term="诗"/>
+        <category label="李梅丽" term="李梅丽"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://xujiayue1111.github.io/blog/welcome</id>
