@@ -8,19 +8,19 @@
     <subtitle>徐徐 Blog</subtitle>
     <icon>https://xujiayue1111.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[高兴诗]]></title>
+        <title type="html"><![CDATA[徐徐说]]></title>
         <id>https://xujiayue1111.github.io/blog/happy</id>
         <link href="https://xujiayue1111.github.io/blog/happy"/>
         <updated>2023-06-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今天天气真不错，我们大家来上课，老师讲的真不错，真的真的很不错。]]></summary>
-        <content type="html"><![CDATA[<p>今天天气真不错，我们大家来上课，老师讲的真不错，真的真的很不错。</p>]]></content>
+        <summary type="html"><![CDATA[今天开了好多会，虽然我不开会。]]></summary>
+        <content type="html"><![CDATA[<p>今天开了好多会，虽然我不开会。</p>]]></content>
         <author>
-            <name>李美丽</name>
-            <uri>https://github.com/wgao19</uri>
+            <name>Xu</name>
+            <uri>https://github.com/xujiayue1111</uri>
         </author>
-        <category label="随笔" term="随笔"/>
-        <category label="诗" term="诗"/>
-        <category label="李梅丽" term="李梅丽"/>
+        <category label="天气晴" term="天气晴"/>
+        <category label="空调微凉" term="空调微凉"/>
+        <category label="开心😊" term="开心😊"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
