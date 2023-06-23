@@ -4,10 +4,20 @@
         <title>徐徐 Blog</title>
         <link>https://xujiayue1111.github.io/blog</link>
         <description>徐徐 Blog</description>
-        <lastBuildDate>Tue, 20 Jun 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[Xu-3]]></title>
+            <link>https://xujiayue1111.github.io/blog/3-blog</link>
+            <guid>https://xujiayue1111.github.io/blog/3-blog</guid>
+            <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[前几天面了百度，其实最近一直在做项目荒废了八股和算法题的复习导致有些之前接触过的概念记忆的不是很清楚，不过没关系我会慢慢补回来的。相信自己可以在每一天都坚持向目标前进已经是非常有勇气了。]]></description>
+            <content:encoded><![CDATA[<p>前几天面了百度，其实最近一直在做项目荒废了八股和算法题的复习导致有些之前接触过的概念记忆的不是很清楚，不过没关系我会慢慢补回来的。相信自己可以在每一天都坚持向目标前进已经是非常有勇气了。</p>]]></content:encoded>
+            <category>天气晴</category>
+            <category>not bad</category>
+        </item>
         <item>
             <title><![CDATA[Xu-2]]></title>
             <link>https://xujiayue1111.github.io/blog/2-blog</link>

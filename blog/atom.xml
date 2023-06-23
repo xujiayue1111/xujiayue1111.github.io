@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xujiayue1111.github.io/blog</id>
     <title>徐徐 Blog</title>
-    <updated>2023-06-20T00:00:00.000Z</updated>
+    <updated>2023-06-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xujiayue1111.github.io/blog"/>
     <subtitle>徐徐 Blog</subtitle>
     <icon>https://xujiayue1111.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Xu-3]]></title>
+        <id>https://xujiayue1111.github.io/blog/3-blog</id>
+        <link href="https://xujiayue1111.github.io/blog/3-blog"/>
+        <updated>2023-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前几天面了百度，其实最近一直在做项目荒废了八股和算法题的复习导致有些之前接触过的概念记忆的不是很清楚，不过没关系我会慢慢补回来的。相信自己可以在每一天都坚持向目标前进已经是非常有勇气了。]]></summary>
+        <content type="html"><![CDATA[<p>前几天面了百度，其实最近一直在做项目荒废了八股和算法题的复习导致有些之前接触过的概念记忆的不是很清楚，不过没关系我会慢慢补回来的。相信自己可以在每一天都坚持向目标前进已经是非常有勇气了。</p>]]></content>
+        <author>
+            <name>Xu</name>
+            <uri>https://github.com/xujiayue1111</uri>
+        </author>
+        <category label="天气晴" term="天气晴"/>
+        <category label="not bad" term="not bad"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xu-2]]></title>
         <id>https://xujiayue1111.github.io/blog/2-blog</id>
