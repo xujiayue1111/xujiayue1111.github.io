@@ -2,15 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xujiayue1111.github.io/blog</id>
     <title>徐徐 Blog</title>
-    <updated>2023-06-08T00:00:00.000Z</updated>
+    <updated>2023-06-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xujiayue1111.github.io/blog"/>
     <subtitle>徐徐 Blog</subtitle>
     <icon>https://xujiayue1111.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[徐徐说]]></title>
-        <id>https://xujiayue1111.github.io/blog/happy</id>
-        <link href="https://xujiayue1111.github.io/blog/happy"/>
+        <title type="html"><![CDATA[Xu-2]]></title>
+        <id>https://xujiayue1111.github.io/blog/2-blog</id>
+        <link href="https://xujiayue1111.github.io/blog/2-blog"/>
+        <updated>2023-06-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大家都毕业了呐，实验楼来了好多师兄师姐真热闹呀，祝师兄师姐前程似锦~]]></summary>
+        <content type="html"><![CDATA[<p>大家都毕业了呐，实验楼来了好多师兄师姐真热闹呀，祝师兄师姐前程似锦~</p><p>今天实验室的一个同学拿到了京东的offer，真好呀希望秋招我也能拿到心满意足的offer嘿嘿。</p><p>最近学习前端突然发现还是深入一点比较好，当我放下想要速成大量八股算法项目去找工作的想法之后，感觉前端的知识有意思了起来，我想这才是学习的真正意义吧。</p><p>不过最近精力还是需要再内收一点要专注啊，相信我可以做到~</p>]]></content>
+        <author>
+            <name>Xu</name>
+            <uri>https://github.com/xujiayue1111</uri>
+        </author>
+        <category label="天气晴" term="天气晴"/>
+        <category label="空调微凉" term="空调微凉"/>
+        <category label="开心😊" term="开心😊"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xu-1]]></title>
+        <id>https://xujiayue1111.github.io/blog/1-blog</id>
+        <link href="https://xujiayue1111.github.io/blog/1-blog"/>
         <updated>2023-06-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[今天开了好多会，虽然我不开会。]]></summary>
         <content type="html"><![CDATA[<p>今天开了好多会，虽然我不开会。</p>]]></content>

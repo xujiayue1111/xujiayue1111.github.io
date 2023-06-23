@@ -4,14 +4,25 @@
         <title>徐徐 Blog</title>
         <link>https://xujiayue1111.github.io/blog</link>
         <description>徐徐 Blog</description>
-        <lastBuildDate>Thu, 08 Jun 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
         <item>
-            <title><![CDATA[徐徐说]]></title>
-            <link>https://xujiayue1111.github.io/blog/happy</link>
-            <guid>https://xujiayue1111.github.io/blog/happy</guid>
+            <title><![CDATA[Xu-2]]></title>
+            <link>https://xujiayue1111.github.io/blog/2-blog</link>
+            <guid>https://xujiayue1111.github.io/blog/2-blog</guid>
+            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[大家都毕业了呐，实验楼来了好多师兄师姐真热闹呀，祝师兄师姐前程似锦~]]></description>
+            <content:encoded><![CDATA[<p>大家都毕业了呐，实验楼来了好多师兄师姐真热闹呀，祝师兄师姐前程似锦~</p><p>今天实验室的一个同学拿到了京东的offer，真好呀希望秋招我也能拿到心满意足的offer嘿嘿。</p><p>最近学习前端突然发现还是深入一点比较好，当我放下想要速成大量八股算法项目去找工作的想法之后，感觉前端的知识有意思了起来，我想这才是学习的真正意义吧。</p><p>不过最近精力还是需要再内收一点要专注啊，相信我可以做到~</p>]]></content:encoded>
+            <category>天气晴</category>
+            <category>空调微凉</category>
+            <category>开心😊</category>
+        </item>
+        <item>
+            <title><![CDATA[Xu-1]]></title>
+            <link>https://xujiayue1111.github.io/blog/1-blog</link>
+            <guid>https://xujiayue1111.github.io/blog/1-blog</guid>
             <pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[今天开了好多会，虽然我不开会。]]></description>
             <content:encoded><![CDATA[<p>今天开了好多会，虽然我不开会。</p>]]></content:encoded>
