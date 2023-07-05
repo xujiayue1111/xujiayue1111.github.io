@@ -4,12 +4,24 @@
         <title>徐徐 Blog</title>
         <link>https://xujiayue1111.github.io/blog</link>
         <description>徐徐 Blog</description>
-        <lastBuildDate>Fri, 23 Jun 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
         <item>
-            <title><![CDATA[Xu-3]]></title>
+            <title><![CDATA[计划起始]]></title>
+            <link>https://xujiayue1111.github.io/blog/4-blog</link>
+            <guid>https://xujiayue1111.github.io/blog/4-blog</guid>
+            <pubDate>Sun, 25 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[最近刷到好多关于僧侣模式的东西，打算开启一个为期一个月的僧侣模式，就把这里的博客当作我的僧侣模式记录吧。]]></description>
+            <content:encoded><![CDATA[<p>最近刷到好多关于僧侣模式的东西，打算开启一个为期一个月的僧侣模式，就把这里的博客当作我的僧侣模式记录吧。</p><p>固定僧侣模式戒律：</p><p>1.每天冥想10分钟（午睡可以冥想）</p><p>2.每天运动30分钟（早上多安排一次爬楼梯即可）</p><p>3.戒烟戒酒</p><p>个人僧侣模式戒律：</p><p>1.十一点或者十一点半前睡，早上七点或七点半醒。</p><p>2.不多食（保持7-8分饱）。</p><p>3.学习10个小时（将自认为困难的认为排列最前，这个是每周休息一次），早8-12，中2-5:30，晚7-10。</p><p>4.晚上回去后若无打扫清洗任务，可以读书三十分钟。</p>]]></content:encoded>
+            <category>天气阴</category>
+            <category>大风</category>
+            <category>呼呼</category>
+            <category>cool</category>
+        </item>
+        <item>
+            <title><![CDATA[今日反思]]></title>
             <link>https://xujiayue1111.github.io/blog/3-blog</link>
             <guid>https://xujiayue1111.github.io/blog/3-blog</guid>
             <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
@@ -19,7 +31,7 @@
             <category>not bad</category>
         </item>
         <item>
-            <title><![CDATA[Xu-2]]></title>
+            <title><![CDATA[随便说说]]></title>
             <link>https://xujiayue1111.github.io/blog/2-blog</link>
             <guid>https://xujiayue1111.github.io/blog/2-blog</guid>
             <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
@@ -30,7 +42,7 @@
             <category>开心😊</category>
         </item>
         <item>
-            <title><![CDATA[Xu-1]]></title>
+            <title><![CDATA[叽里咕噜]]></title>
             <link>https://xujiayue1111.github.io/blog/1-blog</link>
             <guid>https://xujiayue1111.github.io/blog/1-blog</guid>
             <pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate>
