@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xujiayue1111.github.io/blog</id>
     <title>徐徐 Blog</title>
-    <updated>2023-06-25T00:00:00.000Z</updated>
+    <updated>2023-07-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xujiayue1111.github.io/blog"/>
     <subtitle>徐徐 Blog</subtitle>
     <icon>https://xujiayue1111.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[思考]]></title>
+        <id>https://xujiayue1111.github.io/blog/5-blog</id>
+        <link href="https://xujiayue1111.github.io/blog/5-blog"/>
+        <updated>2023-07-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[异步路由的加载有点奇怪，为什么给不同用户分配了不同权限，更换用户登录时用户没有权限的页面还是会显示不跳转404页面。]]></summary>
+        <content type="html"><![CDATA[<p>异步路由的加载有点奇怪，为什么给不同用户分配了不同权限，更换用户登录时用户没有权限的页面还是会显示不跳转404页面。</p><p>ps：导师在实验室学习起来蛮爽的</p>]]></content>
+        <author>
+            <name>Xu</name>
+            <uri>https://github.com/xujiayue1111</uri>
+        </author>
+        <category label="天气晴" term="天气晴"/>
+        <category label="跋山涉水去吃饭" term="跋山涉水去吃饭"/>
+        <category label="enjoy" term="enjoy"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[计划起始]]></title>
         <id>https://xujiayue1111.github.io/blog/4-blog</id>

@@ -4,10 +4,21 @@
         <title>徐徐 Blog</title>
         <link>https://xujiayue1111.github.io/blog</link>
         <description>徐徐 Blog</description>
-        <lastBuildDate>Sun, 25 Jun 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[思考]]></title>
+            <link>https://xujiayue1111.github.io/blog/5-blog</link>
+            <guid>https://xujiayue1111.github.io/blog/5-blog</guid>
+            <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[异步路由的加载有点奇怪，为什么给不同用户分配了不同权限，更换用户登录时用户没有权限的页面还是会显示不跳转404页面。]]></description>
+            <content:encoded><![CDATA[<p>异步路由的加载有点奇怪，为什么给不同用户分配了不同权限，更换用户登录时用户没有权限的页面还是会显示不跳转404页面。</p><p>ps：导师在实验室学习起来蛮爽的</p>]]></content:encoded>
+            <category>天气晴</category>
+            <category>跋山涉水去吃饭</category>
+            <category>enjoy</category>
+        </item>
         <item>
             <title><![CDATA[计划起始]]></title>
             <link>https://xujiayue1111.github.io/blog/4-blog</link>
