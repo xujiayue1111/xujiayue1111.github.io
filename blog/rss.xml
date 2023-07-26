@@ -4,10 +4,22 @@
         <title>徐徐 Blog</title>
         <link>https://xujiayue1111.github.io/blog</link>
         <description>徐徐 Blog</description>
-        <lastBuildDate>Tue, 25 Jul 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[问题]]></title>
+            <link>https://xujiayue1111.github.io/blog/6-blog</link>
+            <guid>https://xujiayue1111.github.io/blog/6-blog</guid>
+            <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[节流为什么要在定时器里面将timer重新设置为null啊，看不出啥意义。不设置的话又不能实现在规定时间内只会执行一次的操作。]]></description>
+            <content:encoded><![CDATA[<p>节流为什么要在定时器里面将timer重新设置为null啊，看不出啥意义。不设置的话又不能实现在规定时间内只会执行一次的操作。</p>]]></content:encoded>
+            <category>天气阴</category>
+            <category>打球</category>
+            <category>有好吃的零食</category>
+            <category>cool</category>
+        </item>
         <item>
             <title><![CDATA[思考]]></title>
             <link>https://xujiayue1111.github.io/blog/5-blog</link>
