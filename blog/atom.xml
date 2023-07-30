@@ -2,18 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xujiayue1111.github.io/blog</id>
     <title>徐徐 Blog</title>
-    <updated>2023-07-26T00:00:00.000Z</updated>
+    <updated>2023-07-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xujiayue1111.github.io/blog"/>
     <subtitle>徐徐 Blog</subtitle>
     <icon>https://xujiayue1111.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[问题]]></title>
+        <title type="html"><![CDATA[随思随想]]></title>
+        <id>https://xujiayue1111.github.io/blog/8-blog</id>
+        <link href="https://xujiayue1111.github.io/blog/8-blog"/>
+        <updated>2023-07-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在前端输入手机号，后台获取手机号通过一定的计数向用户通过手机运营商发送短信验证的技术可以问一下后端的同学蛮有意思的。我做的项目就只是输入手机号码，后台会直接返回验证码并没有向手机用户发送验证码。]]></summary>
+        <content type="html"><![CDATA[<p>在前端输入手机号，后台获取手机号通过一定的计数向用户通过手机运营商发送短信验证的技术可以问一下后端的同学蛮有意思的。我做的项目就只是输入手机号码，后台会直接返回验证码并没有向手机用户发送验证码。</p><p>ps:不懂不懂，想念导师在实验室的日子。</p><p>ps:问了问了 他们也是直接调接口 （7.28）</p>]]></content>
+        <author>
+            <name>Xu</name>
+            <uri>https://github.com/xujiayue1111</uri>
+        </author>
+        <category label="天气晴" term="天气晴"/>
+        <category label="学习ing" term="学习ing"/>
+        <category label="无语" term="无语"/>
+        <category label="not bad" term="not bad"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[随思随想]]></title>
+        <id>https://xujiayue1111.github.io/blog/7-blog</id>
+        <link href="https://xujiayue1111.github.io/blog/7-blog"/>
+        <updated>2023-07-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[为什么浏览器刷新的时候组件重新挂载，但是使用$route保留的路由信息却不会清空还是会保持上一次的路由信息？]]></summary>
+        <content type="html"><![CDATA[<p>为什么浏览器刷新的时候组件重新挂载，但是使用$route保留的路由信息却不会清空还是会保持上一次的路由信息？</p><p>ps:明白了，这个是因为刷新的时候路由的路径根本没变诶！（7.30）</p>]]></content>
+        <author>
+            <name>Xu</name>
+            <uri>https://github.com/xujiayue1111</uri>
+        </author>
+        <category label="天气晴" term="天气晴"/>
+        <category label="学习ing" term="学习ing"/>
+        <category label="nothing new" term="nothing new"/>
+        <category label="not bad" term="not bad"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[随思随想]]></title>
         <id>https://xujiayue1111.github.io/blog/6-blog</id>
         <link href="https://xujiayue1111.github.io/blog/6-blog"/>
         <updated>2023-07-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[节流为什么要在定时器里面将timer重新设置为null啊，看不出啥意义。不设置的话又不能实现在规定时间内只会执行一次的操作。]]></summary>
-        <content type="html"><![CDATA[<p>节流为什么要在定时器里面将timer重新设置为null啊，看不出啥意义。不设置的话又不能实现在规定时间内只会执行一次的操作。</p>]]></content>
+        <content type="html"><![CDATA[<p>节流为什么要在定时器里面将timer重新设置为null啊，看不出啥意义。不设置的话又不能实现在规定时间内只会执行一次的操作。
+ps:setTimeout实现setInterval，执行行数和执行延时器谁前谁后好像没差，定义器是每隔一段时间将函数放入执行栈，等执行栈去执行并非每隔一段时间执行一次函数。</p><p> ps:啊哈！研究明白了，原来是节流在一段时间内只会执行一次事件，开始timer=null开始延时器进行相应函数的执行，但是如果在延时器事件间隔内再次触发了节流，这会timer并不是null所以直接就不做处理或者说结束这个节流程序。等待延时器时间间隔到了执行对应的函数并将timer赋值为null，这样再次触发节流就又可以触发延时器进行函数执行啦。</p>]]></content>
         <author>
             <name>Xu</name>
             <uri>https://github.com/xujiayue1111</uri>
@@ -24,7 +57,7 @@
         <category label="cool" term="cool"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[思考]]></title>
+        <title type="html"><![CDATA[随思随想]]></title>
         <id>https://xujiayue1111.github.io/blog/5-blog</id>
         <link href="https://xujiayue1111.github.io/blog/5-blog"/>
         <updated>2023-07-25T00:00:00.000Z</updated>
