@@ -4,10 +4,22 @@
         <title>徐徐 Blog</title>
         <link>https://xujiayue1111.github.io/blog</link>
         <description>徐徐 Blog</description>
-        <lastBuildDate>Fri, 28 Jul 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[随思随想]]></title>
+            <link>https://xujiayue1111.github.io/blog/9-blog</link>
+            <guid>https://xujiayue1111.github.io/blog/9-blog</guid>
+            <pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[可以看一下reduce方法的实现过程了解reduce各个参数和如何使用。]]></description>
+            <content:encoded><![CDATA[<p>可以看一下reduce方法的实现过程了解reduce各个参数和如何使用。</p>]]></content:encoded>
+            <category>天气晴</category>
+            <category>学习ing</category>
+            <category>无语</category>
+            <category>not bad</category>
+        </item>
         <item>
             <title><![CDATA[随思随想]]></title>
             <link>https://xujiayue1111.github.io/blog/8-blog</link>
