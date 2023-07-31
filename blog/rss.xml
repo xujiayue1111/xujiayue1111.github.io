@@ -13,8 +13,8 @@
             <link>https://xujiayue1111.github.io/blog/9-blog</link>
             <guid>https://xujiayue1111.github.io/blog/9-blog</guid>
             <pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[可以看一下reduce方法的实现过程了解reduce各个参数和如何使用。]]></description>
-            <content:encoded><![CDATA[<p>可以看一下reduce方法的实现过程了解reduce各个参数和如何使用。</p>]]></content:encoded>
+            <description><![CDATA[可以看一下reduce方法的实现过程了解reduce各个参数和如何使用。学到一个用户扫码然后调接口发请求问后台获取用户有没有扫码成功的功能，问下后端的同学吧，不知道是不是也是调用接口。]]></description>
+            <content:encoded><![CDATA[<p>可以看一下reduce方法的实现过程了解reduce各个参数和如何使用。学到一个用户扫码然后调接口发请求问后台获取用户有没有扫码成功的功能，问下后端的同学吧，不知道是不是也是调用接口。</p>]]></content:encoded>
             <category>天气晴</category>
             <category>学习ing</category>
             <category>无语</category>
@@ -49,9 +49,8 @@
             <link>https://xujiayue1111.github.io/blog/6-blog</link>
             <guid>https://xujiayue1111.github.io/blog/6-blog</guid>
             <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[节流为什么要在定时器里面将timer重新设置为null啊，看不出啥意义。不设置的话又不能实现在规定时间内只会执行一次的操作。]]></description>
-            <content:encoded><![CDATA[<p>节流为什么要在定时器里面将timer重新设置为null啊，看不出啥意义。不设置的话又不能实现在规定时间内只会执行一次的操作。
-ps:setTimeout实现setInterval，执行行数和执行延时器谁前谁后好像没差，定义器是每隔一段时间将函数放入执行栈，等执行栈去执行并非每隔一段时间执行一次函数。</p><p> ps:啊哈！研究明白了，原来是节流在一段时间内只会执行一次事件，开始timer=null开始延时器进行相应函数的执行，但是如果在延时器事件间隔内再次触发了节流，这会timer并不是null所以直接就不做处理或者说结束这个节流程序。等待延时器时间间隔到了执行对应的函数并将timer赋值为null，这样再次触发节流就又可以触发延时器进行函数执行啦。</p>]]></content:encoded>
+            <description><![CDATA[节流为什么要在定时器里面将timer重新设置为null。不设置的话又不能实现在规定时间内只会执行一次的操作。]]></description>
+            <content:encoded><![CDATA[<p>节流为什么要在定时器里面将timer重新设置为null。不设置的话又不能实现在规定时间内只会执行一次的操作。</p><p> ps:setTimeout实现setInterval，执行行数和执行延时器谁前谁后好像没差，定义器是每隔一段时间将函数放入执行栈，等执行栈去执行并非每隔一段时间执行一次函数。</p><p> ps:啊哈！研究明白了，原来是节流在一段时间内只会执行一次事件，开始timer=null开始延时器进行相应函数的执行，但是如果在延时器事件间隔内再次触发了节流，这会timer并不是null所以直接就不做处理或者说结束这个节流程序。等待延时器时间间隔到了执行对应的函数并将timer赋值为null，这样再次触发节流就又可以触发延时器进行函数执行啦。</p>]]></content:encoded>
             <category>天气阴</category>
             <category>打球</category>
             <category>有好吃的零食</category>
