@@ -2,25 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xujiayue1111.github.io/blog</id>
     <title>徐徐 Blog</title>
-    <updated>2023-07-31T00:00:00.000Z</updated>
+    <updated>2023-08-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xujiayue1111.github.io/blog"/>
     <subtitle>徐徐 Blog</subtitle>
     <icon>https://xujiayue1111.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[随思随想]]></title>
-        <id>https://xujiayue1111.github.io/blog/9-blog</id>
-        <link href="https://xujiayue1111.github.io/blog/9-blog"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[可以看一下reduce方法的实现过程了解reduce各个参数和如何使用。学到一个用户扫码然后调接口发请求问后台获取用户有没有扫码成功的功能，问下后端的同学吧，不知道是不是也是调用接口。]]></summary>
-        <content type="html"><![CDATA[<p>可以看一下reduce方法的实现过程了解reduce各个参数和如何使用。学到一个用户扫码然后调接口发请求问后台获取用户有没有扫码成功的功能，问下后端的同学吧，不知道是不是也是调用接口。</p>]]></content>
+        <id>https://xujiayue1111.github.io/blog/11-blog</id>
+        <link href="https://xujiayue1111.github.io/blog/11-blog"/>
+        <updated>2023-08-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jsonp处理无法通过ajax发送请求获取数据的跨域情况。我上次在项目里看到解决跨域还是在vite里面进行配置代理。所以说硬背不如直接用来的印象深刻。jsonp]]></summary>
+        <content type="html"><![CDATA[<p>Jsonp处理无法通过ajax发送请求获取数据的跨域情况。我上次在项目里看到解决跨域还是在vite里面进行配置代理。所以说硬背不如直接用来的印象深刻。<a href="https://juejin.cn/post/6982517005974765599" target="_blank" rel="noopener noreferrer">jsonp</a></p>]]></content>
         <author>
             <name>Xu</name>
             <uri>https://github.com/xujiayue1111</uri>
         </author>
         <category label="天气晴" term="天气晴"/>
         <category label="学习ing" term="学习ing"/>
-        <category label="无语" term="无语"/>
+        <category label="打球打球" term="打球打球"/>
+        <category label="not bad" term="not bad"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[随思随想]]></title>
+        <id>https://xujiayue1111.github.io/blog/10-blog</id>
+        <link href="https://xujiayue1111.github.io/blog/10-blog"/>
+        <updated>2023-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[自定义校验规则蛮有意思的，里面的自定义校验函数必须把三个参数都写全，不然可能会出现value值是rule值，callback值是value值的情况，仔细想想所有函数都这样只是自己之前没发现。]]></summary>
+        <content type="html"><![CDATA[<p>自定义校验规则蛮有意思的，里面的自定义校验函数必须把三个参数都写全，不然可能会出现value值是rule值，callback值是value值的情况，仔细想想所有函数都这样只是自己之前没发现。</p><p>突然发现promise里面的参数只能叫resolve和reject，虽然promise，then，catch之类的都返回promise但是功能是不一样的。而then里面的参数注入参数名字反而随意的多。</p><p>可以看看setImmediate</p><p>ps.上课的时候老师想复制csdn里的东西但是要登陆后才能复制，老师直接F12找到元素进行复制的操作看呆我了，但是我自己试的时候发现还是要进行登陆操作，看来csdn不是没有应对的操作鸭。有时候确实需要有点不遵守规则的那种精神劲的不然好没意思。</p>]]></content>
+        <author>
+            <name>Xu</name>
+            <uri>https://github.com/xujiayue1111</uri>
+        </author>
+        <category label="天气晴" term="天气晴"/>
+        <category label="学习ing" term="学习ing"/>
+        <category label="吃水饺咯" term="吃水饺咯"/>
+        <category label="happy" term="happy"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[随思随想]]></title>
+        <id>https://xujiayue1111.github.io/blog/9-blog</id>
+        <link href="https://xujiayue1111.github.io/blog/9-blog"/>
+        <updated>2023-07-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[可以看一下reduce方法的实现过程了解reduce各个参数和如何使用。学到一个用户扫码然后调接口发请求问后台获取用户有没有扫码成功的功能，问下后端的同学吧，不知道是不是也是调用接口。]]></summary>
+        <content type="html"><![CDATA[<p>可以看一下reduce方法的实现过程了解reduce各个参数和如何使用。学到一个用户扫码然后调接口发请求问后台获取用户有没有扫码成功的功能，问下后端的同学吧，不知道是不是也是调用接口。</p><p>ps：扫码成功也是调用接口，可以隔段时间就询问扫码成功没。也可以一分钟之后询问一下没扫码支付成功就不询问了然后结合前端进行二维码过期要重新刷新的操作。</p>]]></content>
+        <author>
+            <name>Xu</name>
+            <uri>https://github.com/xujiayue1111</uri>
+        </author>
+        <category label="天气晴" term="天气晴"/>
+        <category label="学习ing" term="学习ing"/>
+        <category label="控制体重" term="控制体重"/>
         <category label="not bad" term="not bad"/>
     </entry>
     <entry>
@@ -34,10 +66,10 @@
             <name>Xu</name>
             <uri>https://github.com/xujiayue1111</uri>
         </author>
-        <category label="天气晴" term="天气晴"/>
+        <category label="天气阴晴" term="天气阴晴"/>
         <category label="学习ing" term="学习ing"/>
-        <category label="无语" term="无语"/>
-        <category label="not bad" term="not bad"/>
+        <category label="台风呼呼" term="台风呼呼"/>
+        <category label="cool" term="cool"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[随思随想]]></title>
