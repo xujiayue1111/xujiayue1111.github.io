@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xujiayue1111.github.io/blog</id>
     <title>徐徐 Blog</title>
-    <updated>2023-10-07T00:00:00.000Z</updated>
+    <updated>2023-10-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xujiayue1111.github.io/blog"/>
     <subtitle>徐徐 Blog</subtitle>
     <icon>https://xujiayue1111.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[随思随想]]></title>
+        <id>https://xujiayue1111.github.io/blog/14-blog</id>
+        <link href="https://xujiayue1111.github.io/blog/14-blog"/>
+        <updated>2023-10-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[面试被问到有没有男朋友，婚恋观，家里情况，下意识觉得对方是骗子公司（警觉.jpg）]]></summary>
+        <content type="html"><![CDATA[<p>面试被问到有没有男朋友，婚恋观，家里情况，下意识觉得对方是骗子公司（警觉.jpg）</p><p>面试官：你有什么缺点
+我：比较害羞不想在很多人面前说话
+面试官：感觉不出来啊
+我：(⑉･̆-･̆⑉)呃...嗯(˚ ˃̣̣̥᷄⌓˂̣̣̥᷅ ) 好吧</p>]]></content>
+        <author>
+            <name>Xu</name>
+            <uri>https://github.com/xujiayue1111</uri>
+        </author>
+        <category label="天气晴" term="天气晴"/>
+        <category label="学习ing" term="学习ing"/>
+        <category label="面试" term="面试"/>
+        <category label="normal" term="normal"/>
+        <category label="孤独但自由" term="孤独但自由"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[随思随想]]></title>
         <id>https://xujiayue1111.github.io/blog/13-blog</id>
